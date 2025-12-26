@@ -22,7 +22,7 @@ Source codes will be made available here when the paper is accepted. -->
 
 <!-- <a href="/docs/README_zh.md">中文</a> | <b>English</b> -->
 
-**[Haijin Zeng]()\*<sup>1,</sup>**, **[Xuan Lu]()\*<sup>2</sup>**, **[Yurong Zhang]()<sup>3</sup>**, **[Qiangqiang Shen]()<sup>4</sup>**,&emsp; 
+**[Haijin Zeng]()\*<sup>1,</sup>**, **[Xuan Lu]()\*<sup>2</sup>**, **[Yurong Zhang]()<sup>3</sup>**, **[Qiangqiang Shen]()<sup>4</sup>**,&emsp; <br>
 **[Guoqing Chao]()<sup>5</sup>**, **[Li Jiang]()<sup>6</sup>**, **[Yongyong Chen]()<sup>2</sup>**<sup>✉️</sup>
 
 <sup>1</sup>Harvard University &emsp; <sup>2</sup>Harbin Institute of Technology, Shenzhen <br>
