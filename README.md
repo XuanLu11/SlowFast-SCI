@@ -35,5 +35,6 @@ Source codes will be made available here when the paper is accepted. -->
 
 ## 🔥 News <!-- omit in toc -->
 
+- 💻 Code will be released after the paper is accepted.
 - [2025-09] 📖 Our paper is now available on [arXiv](https://arxiv.org/abs/2509.16509).
 
